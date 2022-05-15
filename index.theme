@@ -1,0 +1,4 @@
+[Icon Theme]
+Name=macOS
+Comment=macOS-inspired cursor theme
+Inherits="hicolor"
